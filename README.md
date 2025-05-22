@@ -90,6 +90,3 @@ Use `protein-links-visualize.ipynb` to render PPI subgraphs in an interactive ST
 
 ## 🤝 Contributing
 Contributions are welcome via GitHub issues or pull requests. Please follow the existing code style and include tests if possible.
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
