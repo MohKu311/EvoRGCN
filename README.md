@@ -69,8 +69,6 @@ pip install torch dgl torch-geometric transformers scikit-learn pandas numpy
 - **ProtBERT**: run `protbert_embeddings_linkprediction_*.ipynb`
 - **ESM-2 esm2_t6_8M_UR50D**: run `esm2_27k.ipynb` & `esm2_148k.ipynb`
 
-> **Note:** The `esm2_t6_8M_UR50D` model produces 512-dimensional embeddings per residue. For 1,280-dimensional outputs, use the larger `esm2_t33_650M_UR50D` checkpoint.
-
 ### 5. Train or evaluate models
 - **GCN**:
 ```bash
